@@ -16,4 +16,3 @@ Credits
 =======
 
 * DTMF Sounds: [Wikipedia](http://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling#Keypad).
-* Idea: [Henri Fallon](http://fr.linkedin.com/in/henrifallon).
